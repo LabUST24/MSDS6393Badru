@@ -12,6 +12,6 @@ is the Link to my Deep Learning Assignment - Week#2.
 
 # WEEK3
 
-<a href="https://<a href="https://[colab.research.google.com](https://colab.research.google.com/drive/1GRcVVeiAnjaJlXpML-X1A3ABbDw1kIkS#scrollTo=iQoKg8lpPCzb)/">Here</a>
+<a href="https://<a href="https://colab.research.google.com/drive/1GRcVVeiAnjaJlXpML-X1A3ABbDw1kIkS?usp=sharing">Here</a>
 is the Link to my Google Colab./">Here</a>
 is the Link to my Plateau Assignment - Week#3.
