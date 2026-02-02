@@ -7,3 +7,6 @@ is the Link to my Google Colab.
 <a href="https://<a href="https://[colab.research.google.com](https://colab.research.google.com/drive/13g7_W2efuMNxkD5ev7utLHyuEBq_gARZ#scrollTo=53d36411)/">Here</a>
 is the Link to my Google Colab./">Here</a>
 is the Link to my Deep Learning Assignment - Week#2.
+<a href="https://<a href="https://[colab.research.google.com](https://colab.research.google.com/drive/1GRcVVeiAnjaJlXpML-X1A3ABbDw1kIkS#scrollTo=iQoKg8lpPCzb)/">Here</a>
+is the Link to my Google Colab./">Here</a>
+is the Link to my Deep Learning Assignment - Week#3.
